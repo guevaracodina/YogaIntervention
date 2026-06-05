@@ -17,7 +17,7 @@ Corresponding author:
 
 <sup>*</sup> Edgar Guevara, Faculty of Science / CIACYT, Universidad Autónoma de San Luis Potosí (UASLP), San Luis Potosí, Mexico
   
-E-mail: edgar.guevara@uaslp.mx 
+E-mail: edgar[dot]guevara[at]uaslp[dot]mx 
 
 
 ## Description
