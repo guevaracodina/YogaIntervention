@@ -20,4 +20,8 @@ Corresponding author:
 E-mail: edgar.guevara@uaslp.mx 
 
 
+## Description
 MATLAB code for preprocessing and analyzing multimodal yoga intervention data, including fNIRS task responses, resting-state connectivity, Network-Based Statistics, biochemical markers, posture, and questionnaire outcomes.
+
+## Graphical abstract
+![Graphical abstract](Graphical_Abstract_Goodrick_et_al.png)
