@@ -9,7 +9,7 @@ Michelle Goodrick<sup>1</sup>, Daniel Eduardo Limón-Cano<sup>2</sup>, Nicholas 
 
 <sup>3</sup> Faculty of Psychology, Universidad Autónoma de San Luis Potosí (UASLP), San Luis Potosí, Mexico
 
-<sup>4</sup> Szivcar-Conforfeet, San Luis Potosí, Mexico
+<sup>4</sup> Szivcar y Confortfeet, San Luis Potosí, Mexico
 
 <sup>5</sup> Falculty of Medicine, Department of Biochemistry, Universidad Autónoma de San Luis Potosí (UASLP), San Luis Potosí, Mexico
 
